@@ -3,6 +3,8 @@ Faire un programme qui prend des tertriminos et le ranges dans le plus petit car
 # Note 
 ```100/100```
 # Utilisation 
+```make -C ./libft/```
+
 ```gcc -Wall -Wextra -Werror -o fillit *.c```
 
 ``` ./fillit [fichier contenant des tetriminos]```
